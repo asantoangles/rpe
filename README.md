@@ -1,9 +1,5 @@
 R code for fitting computational models of reinforcement learning using behavioural and neuroimaging data
-as described in Santo-Angles et al. (under review).
-
-**Scripts**
-
-The following scripts contain a) functions to perform model fitting and linear regression to bold signal, and b) main loop to perform cross-validation.
+as described in Santo-Angles et al. (under review). The following scripts contain a) functions to perform model fitting and linear regression to bold signal, and b) the main loop to perform cross-validation.
 
 - ql1.R: standard Q-learning
 - ql2.R: extended Q-learning assuming alpha.chosen = alpha.nochosen
