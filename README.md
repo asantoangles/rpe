@@ -14,4 +14,4 @@ The following scripts contain functions to perform a) model fitting and linear r
 
 **Data**
 
-As an example, behavioral and neuroimaging data from one subject, e.g. timecourse of one region-of-interest, is available. To fit standard Q-learning model and perform linear regression with BOLD signal, change paths in faked_feat.fsf (lines 33, 270 and 307) and run lines 1-222 of ql1.R
+As an example, behavioral and neuroimaging data from one subject is available, e.g. timecourse of one region-of-interest. To fit standard Q-learning model and perform linear regression with BOLD signal, change paths in faked_feat.fsf (lines 33, 270 and 307) and run lines 1-222 of ql1.R.
