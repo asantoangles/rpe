@@ -3,7 +3,7 @@ as described in Santo-Angles et al. (under review).
 
 **Scripts**
 
-The following scripts contain functions to perform model fitting and linear regression to bold signal, and the main loop to perform cross-validation.
+The following scripts contain functions to perform a) model fitting and linear regression to bold signal, and b) main loop to perform cross-validation.
 
 - ql1.R: standard Q-learning
 - ql2.R: extended Q-learning assuming alpha.chosen = alpha.nochosen
